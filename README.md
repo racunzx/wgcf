@@ -1,3 +1,5 @@
+https://xtls.github.io/document/level-2/warp.html#%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8-warp-%E9%93%BE%E5%BC%8F%E4%BB%A3%E7%90%86
+
 # wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
 
